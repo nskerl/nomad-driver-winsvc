@@ -3,7 +3,7 @@ job "example" {
   type        = "service"
 
   group "group" {
-    count = 1
+    count = 2
     task "task" {
 
       artifact {
