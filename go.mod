@@ -4,13 +4,11 @@ module github.com/nskerl/nomad-driver-winsvc
 go 1.12
 
 require (
-	github.com/KnicKnic/go-powershell v0.0.10 // indirect
 	github.com/LK4D4/joincontext v0.0.0-20171026170139-1724345da6d5 // indirect
 	github.com/NVIDIA/gpu-monitoring-tools v0.0.0-20191126014920-0d8df858cca4 // indirect
 	github.com/Sirupsen/logrus v0.0.0-00010101000000-000000000000 // indirect
 	github.com/StackExchange/wmi v1.2.1 // indirect
 	github.com/appc/spec v0.8.11 // indirect
-	github.com/bhendo/go-powershell v0.0.0-20190719160123-219e7fb4e41e // indirect
 	github.com/checkpoint-restore/go-criu v0.0.0-20191125063657-fcdcd07065c5 // indirect
 	github.com/containerd/go-cni v0.0.0-20191121212822-60d125212faf // indirect
 	github.com/containernetworking/plugins v0.8.3 // indirect
