@@ -46,3 +46,4 @@ TODO
 ----
 1. Support running as LOCALSYSTEM (perhaps just as default when username is nil)
 2. Document how to pass password through environment variables rather than exposed in job file
+3. Document how to support [TopShelf](https://github.com/Topshelf/Topshelf) services
